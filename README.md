@@ -8,15 +8,15 @@
 
 ## 🎯 About Me
 
-**Mindful Development. Focused on Simplicity, Privacy, and Intentional Design.**
+Mindful Development. Focused on Simplicity, Privacy, and Intentional Design.
 
-I'm dedicated to mastering **Android development (Java)**, focusing on how to build tools that respect user attention and uphold **privacy by design**.
+I'm dedicated to mastering Android development (Java), focusing on how to build tools that respect user attention and uphold privacy by design.
 
 ### My Approach
 
-* **Deep System Focus:** Moving from UI to core architecture to ensure solutions are not just functional but also robust and stable.
-* **User-Centric Commitment:** My goal is to create applications that truly serve users by solving real problems without introducing new distractions.
-* **Ethical Priority:** I actively prioritize **user wellbeing** and **minimalism** over constant engagement metrics.
+* Deep System Focus: Moving from UI to core architecture to ensure solutions are not just functional but also robust and stable.
+* User-Centric Commitment: My goal is to create applications that truly serve users by solving real problems without introducing new distractions.
+* Ethical Priority: I actively prioritize user wellbeing and minimalism over constant engagement metrics.
 
 ## 🛠️ What I'm Working With
 
@@ -41,13 +41,13 @@ public class Developer {
 
 ### Learning Focus
 
-**Java Mastery** • Deepening core knowledge and design patterns for robust solutions.
+Java Mastery • Deepening core knowledge and design patterns for robust solutions.
 
-**Native Android** • Crafting minimal, privacy-centric interfaces.
+Native Android • Crafting minimal, privacy-centric interfaces.
 
-**System Architecture** • Gaining a profound understanding of internal app workings.
+System Architecture • Gaining a profound understanding of internal app workings.
 
-**Clarity in Design** • Prioritizing intentional UI that maximizes clarity and ease of use.
+Clarity in Design • Prioritizing intentional UI that maximizes clarity and ease of use.
 
 ## 🌿 Philosophy
 
@@ -69,34 +69,34 @@ public class Developer {
 
 </div>
 
-I believe technology should enhance life without demanding constant attention or compromising privacy. I strive to build natural, seamless experiences. The most effective interface is often the one you don't even notice.
+I believe technology should enhance life without demanding constant attention or compromising privacy. I strive to build natural and seamless experiences. The most effective interface is often the one you don't even notice.
 
-**Core Values:**
+Core Values:
 
 <table align="center">
 <tr>
-<td width="25%"><b>Simplicity</b></td>
+<td width="25%">Simplicity</td>
 <td width="75%">Maximum focus through minimal features.</td>
 </tr>
 <tr>
-<td><b>Privacy</b></td>
+<td>Privacy</td>
 <td>Empowering users with data ownership.</td>
 </tr>
 <tr>
-<td><b>Calm Technology</b></td>
+<td>Calm Technology</td>
 <td>Tools that perform quietly and effectively.</td>
 </tr>
 <tr>
-<td><b>Transparency</b></td>
+<td>Transparency</td>
 <td>Supporting open source for community trust.</td>
 </tr>
 </table>
 
 ## 📚 Current Path
 
-**Thoughtful Learning. Foundational Depth.**
+Thoughtful Learning. Foundational Depth.
 
-I'm focusing on methodical learning, prioritizing deep understanding over speed. My current exploration includes:
+I'm focusing on methodical learning and prioritizing deep understanding over speed. My current exploration includes:
 
 - Android app architecture and lifecycle patterns
 - Java best practices and clean code principles
@@ -104,7 +104,7 @@ I'm focusing on methodical learning, prioritizing deep understanding over speed.
 - Building apps that work offline-first
 - Understanding how apps function at the system level
 
-My aim is to build a portfolio of small, focused projects that demonstrate privacy-first design with minimal interfaces. Each solving a specific problem without unnecessary complexity.
+My aim is to build a portfolio of small and focused projects that demonstrate privacy-first design with minimal interfaces. Each solving a specific problem without unnecessary complexity.
 
 ## 📬 Connect
 
