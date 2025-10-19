@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header" />
-
-# <span style="color:black;">Olen Renewal</span>
+# Olen Renewal
 
 ### Intentional Building. Privacy First. Quiet Growth.
 
@@ -13,7 +11,8 @@
 ## 🎯 About Me
 
 **Mindful Development. Focused on Simplicity, Privacy, and Intentional Design.**
-I am dedicated to mastering **Android development (Java)**, focusing on how to build tools that respect user attention and uphold **privacy by design**.
+
+I'm dedicated to mastering **Android development (Java)**, focusing on how to build tools that respect user attention and uphold **privacy by design**.
 
 ### My Approach
 
@@ -46,10 +45,13 @@ public class Developer {
 
 ### Learning Focus
 
-- **Java Mastery:** Deepening core knowledge and design patterns for robust solutions.
-- **Native Android:** Crafting minimal, privacy-centric interfaces.
-- **System Architecture:** Gaining a profound understanding of internal app workings.
-- **Clarity in Design:** Prioritizing intentional UI that maximizes clarity and ease of use.
+**Java Mastery:** Deepening core knowledge and design patterns for robust solutions.
+
+**Native Android:** Crafting minimal, privacy-centric interfaces.
+
+**System Architecture:** Gaining a profound understanding of internal app workings.
+
+**Clarity in Design:** Prioritizing intentional UI that maximizes clarity and ease of use.
 
 ---
 
@@ -61,28 +63,41 @@ public class Developer {
 
 ### *"Quiet design speaks louder than cluttered noise"*
 
-<img src="https://media.giphy.com/media/Qk4iJ537l982u5Rj1v/giphy.gif" alt="Minimalist focus animation" width="100"/>
+<br>
+
+```
+    ___
+   /   \
+  |  ◡  |    Calm technology
+   \___/     that just works
+     |
+```
 
 * * *
 
 </div>
 
-I believe technology should always enhance life without demanding constant attention or compromising fundamental privacy. I strive to build natural, seamless experiences—holding that the most effective interface is often the one you don't even notice.
+I believe technology should always enhance life without demanding constant attention or compromising fundamental privacy. I strive to build natural, seamless experiences. The most effective interface is often the one you don't even notice.
 
 **Core Values:**
 
+<div align="center">
+
 | Value | Focus |
-| :--- | :--- |
+|:------|:------|
 | **Simplicity** | Maximum focus through minimal features. |
 | **Privacy** | Empowering users with data ownership. |
 | **Calm Technology** | Tools that perform quietly and effectively. |
 | **Transparency** | Supporting open source for community trust. |
+
+</div>
 
 ---
 
 ## 📚 Current Path
 
 **Thoughtful Learning. Foundational Depth.**
+
 I'm focusing on methodical learning, prioritizing deep understanding over speed. My current exploration includes:
 
 - **Android app architecture** and lifecycle patterns
@@ -91,7 +106,7 @@ I'm focusing on methodical learning, prioritizing deep understanding over speed.
 - Building apps that work **offline-first**
 - Understanding how apps function at the system level
 
-My aim is to build a portfolio of small, focused projects that demonstrate **privacy-first design** with minimal interfaces—each solving a specific problem without unnecessary complexity.
+My aim is to build a portfolio of small, focused projects that demonstrate **privacy-first design** with minimal interfaces. Each solving a specific problem without unnecessary complexity.
 
 ---
 
