@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## 🎯 About Me
 
 **Mindful Development. Focused on Simplicity, Privacy, and Intentional Design.**
@@ -19,8 +17,6 @@ I'm dedicated to mastering **Android development (Java)**, focusing on how to bu
 * **Deep System Focus:** Moving from UI to core architecture to ensure solutions are not just functional but also robust and stable.
 * **User-Centric Commitment:** My goal is to create applications that truly serve users by solving real problems without introducing new distractions.
 * **Ethical Priority:** I actively prioritize **user wellbeing** and **minimalism** over constant engagement metrics.
-
----
 
 ## 🛠️ What I'm Working With
 
@@ -45,54 +41,56 @@ public class Developer {
 
 ### Learning Focus
 
-**Java Mastery:** Deepening core knowledge and design patterns for robust solutions.
+**Java Mastery** • Deepening core knowledge and design patterns for robust solutions.
 
-**Native Android:** Crafting minimal, privacy-centric interfaces.
+**Native Android** • Crafting minimal, privacy-centric interfaces.
 
-**System Architecture:** Gaining a profound understanding of internal app workings.
+**System Architecture** • Gaining a profound understanding of internal app workings.
 
-**Clarity in Design:** Prioritizing intentional UI that maximizes clarity and ease of use.
-
----
+**Clarity in Design** • Prioritizing intentional UI that maximizes clarity and ease of use.
 
 ## 🌿 Philosophy
 
 <div align="center">
 
-* * *
+***
 
-### *"Quiet design speaks louder than cluttered noise"*
+> *"Quiet design speaks louder than cluttered noise"*
 
 <br>
 
-```
-    ___
-   /   \
-  |  ◡  |    Calm technology
-   \___/     that just works
-     |
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
-* * *
+***
 
 </div>
 
-I believe technology should always enhance life without demanding constant attention or compromising fundamental privacy. I strive to build natural, seamless experiences. The most effective interface is often the one you don't even notice.
+I believe technology should enhance life without demanding constant attention or compromising privacy. I strive to build natural, seamless experiences. The most effective interface is often the one you don't even notice.
 
 **Core Values:**
 
-<div align="center">
-
-| Value | Focus |
-|:------|:------|
-| **Simplicity** | Maximum focus through minimal features. |
-| **Privacy** | Empowering users with data ownership. |
-| **Calm Technology** | Tools that perform quietly and effectively. |
-| **Transparency** | Supporting open source for community trust. |
-
-</div>
-
----
+<table align="center">
+<tr>
+<td width="25%"><b>Simplicity</b></td>
+<td width="75%">Maximum focus through minimal features.</td>
+</tr>
+<tr>
+<td><b>Privacy</b></td>
+<td>Empowering users with data ownership.</td>
+</tr>
+<tr>
+<td><b>Calm Technology</b></td>
+<td>Tools that perform quietly and effectively.</td>
+</tr>
+<tr>
+<td><b>Transparency</b></td>
+<td>Supporting open source for community trust.</td>
+</tr>
+</table>
 
 ## 📚 Current Path
 
@@ -100,15 +98,13 @@ I believe technology should always enhance life without demanding constant atten
 
 I'm focusing on methodical learning, prioritizing deep understanding over speed. My current exploration includes:
 
-- **Android app architecture** and lifecycle patterns
-- **Java best practices** and clean code principles
-- **Privacy-preserving** development techniques
-- Building apps that work **offline-first**
+- Android app architecture and lifecycle patterns
+- Java best practices and clean code principles
+- Privacy-preserving development techniques
+- Building apps that work offline-first
 - Understanding how apps function at the system level
 
-My aim is to build a portfolio of small, focused projects that demonstrate **privacy-first design** with minimal interfaces. Each solving a specific problem without unnecessary complexity.
-
----
+My aim is to build a portfolio of small, focused projects that demonstrate privacy-first design with minimal interfaces. Each solving a specific problem without unnecessary complexity.
 
 ## 📬 Connect
 
@@ -122,14 +118,12 @@ My aim is to build a portfolio of small, focused projects that demonstrate **pri
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 
 ### 🌾 *Build quietly, let your work speak softly* 🌾
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
 </div>
